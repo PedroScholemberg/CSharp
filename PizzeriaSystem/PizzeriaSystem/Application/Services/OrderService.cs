@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace PizzeriaSystem.Application.Services
 {
-    internal class OrderService
+    public class OrderService
     {
+        
     }
 }

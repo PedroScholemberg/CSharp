@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PizzeriaSystem.Application.Orchestrations
 {
-    internal class PaymentProcessment
+    internal class PaymentOrchestration
     {
     }
 }

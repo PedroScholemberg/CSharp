@@ -1,12 +1,307 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|c:\\users\\pedro_scholemberg\\documents\\github\\csharp\\pizzeriasystem\\pizzeriasystem\\application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|solutionrelative:pizzeriasystem\\application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|c:\\users\\pedro_scholemberg\\documents\\github\\csharp\\pizzeriasystem\\pizzeriasystem\\application\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|solutionrelative:pizzeriasystem\\application\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|c:\\users\\pedro_scholemberg\\documents\\github\\csharp\\pizzeriasystem\\pizzeriasystem\\application\\orchestrations\\orderorchestration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|solutionrelative:pizzeriasystem\\application\\orchestrations\\orderorchestration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|c:\\users\\pedro_scholemberg\\documents\\github\\csharp\\pizzeriasystem\\pizzeriasystem\\application\\orchestrations\\paymentorchestration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|solutionrelative:pizzeriasystem\\application\\orchestrations\\paymentorchestration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|c:\\users\\pedro_scholemberg\\documents\\github\\csharp\\pizzeriasystem\\pizzeriasystem\\application\\interfaces\\productinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|solutionrelative:pizzeriasystem\\application\\interfaces\\productinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|c:\\users\\pedro_scholemberg\\documents\\github\\csharp\\pizzeriasystem\\pizzeriasystem\\application\\interfaces\\paymentinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|solutionrelative:pizzeriasystem\\application\\interfaces\\paymentinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|c:\\users\\pedro_scholemberg\\documents\\github\\csharp\\pizzeriasystem\\pizzeriasystem\\application\\interfaces\\orderinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|solutionrelative:pizzeriasystem\\application\\interfaces\\orderinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|c:\\users\\pedro_scholemberg\\documents\\github\\csharp\\pizzeriasystem\\pizzeriasystem\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|solutionrelative:pizzeriasystem\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|c:\\users\\pedro_scholemberg\\documents\\github\\csharp\\pizzeriasystem\\pizzeriasystem\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|solutionrelative:pizzeriasystem\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|c:\\users\\pedro_scholemberg\\documents\\github\\csharp\\pizzeriasystem\\pizzeriasystem\\presentation\\orderfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|solutionrelative:pizzeriasystem\\presentation\\orderfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|c:\\users\\pedro_scholemberg\\documents\\github\\csharp\\pizzeriasystem\\pizzeriasystem\\presentation\\orderfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|solutionrelative:pizzeriasystem\\presentation\\orderfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|c:\\users\\pedro_scholemberg\\documents\\github\\csharp\\pizzeriasystem\\pizzeriasystem\\presentation\\orderfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|solutionrelative:pizzeriasystem\\presentation\\orderfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|c:\\users\\pedro_scholemberg\\documents\\github\\csharp\\pizzeriasystem\\pizzeriasystem\\presentation\\orderfrm.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|solutionrelative:pizzeriasystem\\presentation\\orderfrm.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|c:\\users\\pedro_scholemberg\\documents\\github\\csharp\\pizzeriasystem\\pizzeriasystem\\infraestructure\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|solutionrelative:pizzeriasystem\\infraestructure\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|c:\\users\\pedro_scholemberg\\documents\\github\\csharp\\pizzeriasystem\\pizzeriasystem\\presentation\\paymentfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|solutionrelative:pizzeriasystem\\presentation\\paymentfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|c:\\users\\pedro_scholemberg\\documents\\github\\csharp\\pizzeriasystem\\pizzeriasystem\\pizzeriasystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|solutionrelative:pizzeriasystem\\pizzeriasystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|c:\\users\\pedro_scholemberg\\documents\\github\\csharp\\pizzeriasystem\\pizzeriasystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9081BA32-E0A8-4A36-BE81-13999534948A}|PizzeriaSystem\\PizzeriaSystem.csproj|solutionrelative:pizzeriasystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductInterface.cs",
+              "DocumentMoniker": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Application\\Interfaces\\ProductInterface.cs",
+              "RelativeDocumentMoniker": "PizzeriaSystem\\Application\\Interfaces\\ProductInterface.cs",
+              "ToolTip": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Application\\Interfaces\\ProductInterface.cs",
+              "RelativeToolTip": "PizzeriaSystem\\Application\\Interfaces\\ProductInterface.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:50:50.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderOrchestration.cs",
+              "DocumentMoniker": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Application\\Orchestrations\\OrderOrchestration.cs",
+              "RelativeDocumentMoniker": "PizzeriaSystem\\Application\\Orchestrations\\OrderOrchestration.cs",
+              "ToolTip": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Application\\Orchestrations\\OrderOrchestration.cs",
+              "RelativeToolTip": "PizzeriaSystem\\Application\\Orchestrations\\OrderOrchestration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:27:28.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentOrchestration.cs",
+              "DocumentMoniker": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Application\\Orchestrations\\PaymentOrchestration.cs",
+              "RelativeDocumentMoniker": "PizzeriaSystem\\Application\\Orchestrations\\PaymentOrchestration.cs",
+              "ToolTip": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Application\\Orchestrations\\PaymentOrchestration.cs",
+              "RelativeToolTip": "PizzeriaSystem\\Application\\Orchestrations\\PaymentOrchestration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:27:00.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "PizzeriaSystem\\Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "PizzeriaSystem\\Application\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:28:43.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Application\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "PizzeriaSystem\\Application\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Application\\Services\\PaymentService.cs",
+              "RelativeToolTip": "PizzeriaSystem\\Application\\Services\\PaymentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:29:12.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentInterface.cs",
+              "DocumentMoniker": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Application\\Interfaces\\PaymentInterface.cs",
+              "RelativeDocumentMoniker": "PizzeriaSystem\\Application\\Interfaces\\PaymentInterface.cs",
+              "ToolTip": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Application\\Interfaces\\PaymentInterface.cs",
+              "RelativeToolTip": "PizzeriaSystem\\Application\\Interfaces\\PaymentInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:30:21.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderInterface.cs",
+              "DocumentMoniker": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Application\\Interfaces\\OrderInterface.cs",
+              "RelativeDocumentMoniker": "PizzeriaSystem\\Application\\Interfaces\\OrderInterface.cs",
+              "ToolTip": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Application\\Interfaces\\OrderInterface.cs",
+              "RelativeToolTip": "PizzeriaSystem\\Application\\Interfaces\\OrderInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:30:34.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "PizzeriaSystem\\Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "PizzeriaSystem\\Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:56:21.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "PizzeriaSystem\\Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "PizzeriaSystem\\Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:21:33.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderFrm.cs",
+              "DocumentMoniker": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Presentation\\OrderFrm.cs",
+              "RelativeDocumentMoniker": "PizzeriaSystem\\Presentation\\OrderFrm.cs",
+              "ToolTip": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Presentation\\OrderFrm.cs",
+              "RelativeToolTip": "PizzeriaSystem\\Presentation\\OrderFrm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:53:40.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderFrm.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Presentation\\OrderFrm.cs",
+              "RelativeDocumentMoniker": "PizzeriaSystem\\Presentation\\OrderFrm.cs",
+              "ToolTip": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Presentation\\OrderFrm.cs [Projeto]",
+              "RelativeToolTip": "PizzeriaSystem\\Presentation\\OrderFrm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:53:34.948Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderFrm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Presentation\\OrderFrm.Designer.cs",
+              "RelativeDocumentMoniker": "PizzeriaSystem\\Presentation\\OrderFrm.Designer.cs",
+              "ToolTip": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Presentation\\OrderFrm.Designer.cs",
+              "RelativeToolTip": "PizzeriaSystem\\Presentation\\OrderFrm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:53:27.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderFrm.resx",
+              "DocumentMoniker": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Presentation\\OrderFrm.resx",
+              "RelativeDocumentMoniker": "PizzeriaSystem\\Presentation\\OrderFrm.resx",
+              "ToolTip": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Presentation\\OrderFrm.resx",
+              "RelativeToolTip": "PizzeriaSystem\\Presentation\\OrderFrm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-11T23:53:22.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Infraestructure\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PizzeriaSystem\\Infraestructure\\Database\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Infraestructure\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "PizzeriaSystem\\Infraestructure\\Database\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:40:40.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentFrm.cs",
+              "DocumentMoniker": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Presentation\\PaymentFrm.cs",
+              "RelativeDocumentMoniker": "PizzeriaSystem\\Presentation\\PaymentFrm.cs",
+              "ToolTip": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Presentation\\PaymentFrm.cs",
+              "RelativeToolTip": "PizzeriaSystem\\Presentation\\PaymentFrm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:32:32.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Program.cs",
+              "RelativeDocumentMoniker": "PizzeriaSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\Program.cs",
+              "RelativeToolTip": "PizzeriaSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:31:08.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PizzeriaSystem",
+              "DocumentMoniker": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\PizzeriaSystem.csproj",
+              "RelativeDocumentMoniker": "PizzeriaSystem\\PizzeriaSystem.csproj",
+              "ToolTip": "C:\\Users\\pedro_scholemberg\\Documents\\GitHub\\CSharp\\PizzeriaSystem\\PizzeriaSystem\\PizzeriaSystem.csproj",
+              "RelativeToolTip": "PizzeriaSystem\\PizzeriaSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T22:21:31.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
